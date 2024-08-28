@@ -1,1 +1,1 @@
-# -sGel-st-rme.github.io
+# gelistirme.github.io
